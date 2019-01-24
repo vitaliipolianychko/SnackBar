@@ -38,6 +38,7 @@
   from {bottom: 30px; opacity: 1;}
   to {bottom: 0; opacity: 0;}
 }
+
 button {
   display: inline-block;
   color: white;
@@ -51,7 +52,9 @@ button {
   transition: 0.2s;
   background-color: grey;
 } 
+
 button:hover { background: black; cursor: pointer; }
+
 input {
   font-size: 12px;
   padding: 10px;
